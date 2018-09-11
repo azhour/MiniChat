@@ -1,1 +1,1 @@
-# TP_miniChat
+# MiniChat
